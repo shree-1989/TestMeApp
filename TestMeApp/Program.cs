@@ -7,7 +7,8 @@ IEnumerable<string> li = new List<string>()
     "Gamma",
     "Delta",
     "Echo",
-    "FoxTrot"
+    "FoxTrot",
+    "Golf"
 };
 
 var input = Console.ReadLine();
