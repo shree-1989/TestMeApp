@@ -9,7 +9,8 @@ IEnumerable<string> li = new List<string>()
     "Echo",
     "FoxTrot",
     "Golf",
-    "Hotel"
+    "Hotel",
+    "India"
 };
 
 var input = Console.ReadLine();
