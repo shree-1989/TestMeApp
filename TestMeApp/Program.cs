@@ -2,15 +2,7 @@
 
 IEnumerable<string> li = new List<string>()
 {
-    "Alpha",
-    "Beta",
-    "Gamma",
-    "Delta",
-    "Echo",
-    "FoxTrot",
-    "Golf",
-    "Hotel",
-    "India"
+    "Alpha"
 };
 
 var input = Console.ReadLine();
