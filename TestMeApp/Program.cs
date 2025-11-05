@@ -3,6 +3,14 @@
 IEnumerable<string> li = new List<string>()
 {
     "Alpha",
+    "Beta",
+    "Gamma",
+    "Delta",
+    "Echo",
+    "FoxTrot",
+    "Golf",
+    "Hotel",
+    "India"
 };
 
 var input = Console.ReadLine();
