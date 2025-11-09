@@ -2,7 +2,7 @@
 
 IEnumerable<string> li = new List<string>()
 {
-    "Alpha_1"
+    "Alpha_2"
 };
 
 var input = Console.ReadLine();
