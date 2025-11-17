@@ -4,13 +4,7 @@ Console.WriteLine("Hello World");
 
 IEnumerable<string> li = new List<string>()
 {
-    "Alpha",
-    "Beta",
-    "Gamma",
-    "Delta",
-    "Echo",
-    "FoxTrot",
-    "Golf"
+    "Alpha_24"
 };
 
 var input = Console.ReadLine();
