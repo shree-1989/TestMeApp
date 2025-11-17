@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Hello World");
+﻿using TestMeApp;
+
+Console.WriteLine("Hello World");
 
 IEnumerable<string> li = new List<string>()
 {
@@ -12,6 +14,8 @@ IEnumerable<string> li = new List<string>()
 };
 
 var input = Console.ReadLine();
+
+new TestClass().getName();
 
 if (li.Any(name => name.Equals(input)))
     Console.WriteLine("Found it");
