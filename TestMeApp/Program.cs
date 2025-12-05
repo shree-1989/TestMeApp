@@ -4,7 +4,7 @@ Console.WriteLine("Hello World");
 
 IEnumerable<string> li = new List<string>()
 {
-    "Alpha_24"
+    "Alpha_16"
 };
 
 var input = Console.ReadLine();
