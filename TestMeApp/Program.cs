@@ -5,7 +5,7 @@ Console.WriteLine("Hello World");
 IEnumerable<string> li = new List<string>()
 {
     "Alpha_16"
-};
+}
 
 var input = Console.ReadLine();
 
